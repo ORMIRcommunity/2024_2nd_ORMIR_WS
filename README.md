@@ -1,5 +1,5 @@
 # Sharing and Curating Open Data in Musculoskeletal Imaging Research
-## A workshop organized by and for the [Open and Reproducible Musculoskeletal Imaging Research (ORMIR) Community](https://ormircommunity.github.io/)
+## 2nd workshop of the [Open and Reproducible Musculoskeletal Imaging Research (ORMIR) Community](https://ormircommunity.github.io/)
 Financial support by [Swiss National Science Foundation (SNSF)](https://www.snf.ch/en), 
 ##  
 
