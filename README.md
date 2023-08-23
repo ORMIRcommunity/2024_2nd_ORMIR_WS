@@ -32,12 +32,12 @@ In this page, you will find (coming soon!):
 ## Staying, eating, and travelling
 
 ### Accommodation
-- Where: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Hottingerstrasse 31, 8032 Zurich, Switzerland
+- Where: [Hotel Hottingen](https://www.hotelhottingen.ch/en/), Hottingerstrasse 31, 8032 Zurich, Switzerland
 - Check in: Monday, January 15, 2024
 - Check out: Thursday, January 18, 2024 
 - Number of nights: 4
 
 ### Public transportation
 - Public transportation in Switzerland is very reliable
-- At the hotel, you will find a Zurich Card, that is, a 72 hour ticket that you can use for any transportation in Zurich (inluding back to the airport) and fantastic [benefits](https://www.zuerich.com/en). Don't forget to print it the first time you use it and to keep it always with you! 
+- At the hotel, you will find a Zurich Card, that is, a 72 hour ticket that you can use for any transportation in Zurich (inluding back to the airport) and fantastic [benefits](https://www.zuerich.com/en). Don't forget to print it the first time you use it and to always keep it with you! 
 - You can schedule your trips at [sbb.nl/en](https://www.sbb.ch/en/home.html) or you can download and install the [sbb app](https://www.sbb.ch/en/timetable/mobile-apps/sbb-mobile.html)
