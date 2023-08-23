@@ -1,6 +1,7 @@
 # Sharing and Curating Open Data in Musculoskeletal Imaging Research
 ## 2nd workshop of the [Open and Reproducible Musculoskeletal Imaging Research (ORMIR) Community](https://ormircommunity.github.io/)
-Financial support by [Swiss National Science Foundation (SNSF)](https://www.snf.ch/en), 
+Main financial support by [Swiss National Science Foundation (SNSF)](https://www.snf.ch/en) 
+Other sponsors: [Zurich Tourism Office](https://www.zuerich.com/en)
 ##  
 
 Dates: January 15-18, 2024
@@ -24,3 +25,19 @@ In this page, you will find (coming soon!):
   - [Accepted proposal](#accepted-proposal), [Final budget](#final-budget), [Photos](#photos), [Final report](#final-report), [Code for badges](#code-for-badges)
 
 ---
+
+
+---
+
+## Staying, eating, and travelling
+
+### Accommodation
+- Where: [The Student Hotel](https://www.thestudenthotel.com/maastricht/), Hottingerstrasse 31, 8032 Zurich, Switzerland
+- Check in: Monday, January 15, 2024
+- Check out: Thursday, January 18, 2024 
+- Number of nights: 4
+
+### Public transportation
+- Public transportation in Switzerland is very reliable
+- At the hotel, you will find a Zurich Card, that is, a 72 hour ticket that you can use for any transportation in Zurich (inluding back to the airport) and fantastic [benefits](https://www.zuerich.com/en). Don't forget to print it the first time you use it and to keep it always with you! 
+- You can schedule your trips at [sbb.nl/en](https://www.sbb.ch/en/home.html) or you can download and install the [sbb app](https://www.sbb.ch/en/timetable/mobile-apps/sbb-mobile.html)
