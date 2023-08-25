@@ -6,9 +6,10 @@ Other sponsors: [Zurich Tourism Office](https://www.zuerich.com/en)
 
 Dates: January 15-18, 2024
 
-Venues: 
-- [Balgrist Campus](https://www.balgristcampus.ch/), Lengghalde 5, 8008, Zurich (Switzerland)
-- [Schulthess KliniK](https://www.schulthess-klinik.ch/en), Lengghalde 2, 8008 Zurich (Switzerland)
+Venues in Zurich (Switzerland): 
+- [Balgrist Campus](https://www.balgristcampus.ch/), [Lengghalde 5](https://goo.gl/maps/K64WFruSgq6ZTmJt6) 
+- [Schulthess Klinik](https://www.schulthess-klinik.ch/en), [Lengghalde 2](https://goo.gl/maps/ospjThjCGCZfmseAA) 
+- [Google Cloud](https://cloud.google.com/blog/products/infrastructure/new-gcp-region-in-zurich-growing-our-support-for-swiss-and-european-businesses), Europaallee 
 
 ---
 
@@ -39,4 +40,4 @@ In this page, you will find (work in progress!):
 
 ### Public transportation
 - Public transportation in Switzerland is very reliable. You can plan your trips at [sbb.nl/en](https://www.sbb.ch/en/home.html) or you can download and install the [sbb app](https://www.sbb.ch/en/timetable/mobile-apps/sbb-mobile.html)
-- At the hotel, you will find a Zurich Card, that is, a 72 hour ticket that you can use for any transportation in Zurich (inluding back to the airport) and fantastic [benefits](https://www.zuerich.com/en). Don't forget to print it the first time you use it and to always keep it with you! 
+- At the hotel, you will find the Zurich Card, that is, a 72 hour ticket that you can use for any transportation in Zurich (including trip back to the airport) and fantastic [benefits](https://www.zuerich.com/en). Don't forget to print it the first time you use it and to always keep it with you! (you will have to pay for the trip from the airport to the hotel, which is 3.40CHF as we cannot deliver the Zurich Card differently)
