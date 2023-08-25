@@ -40,4 +40,7 @@ In this page, you will find (work in progress!):
 
 ### Public transportation
 - Public transportation in Switzerland is very reliable. You can plan your trips at [sbb.nl/en](https://www.sbb.ch/en/home.html) or you can download and install the [sbb app](https://www.sbb.ch/en/timetable/mobile-apps/sbb-mobile.html)
-- At the hotel, you will find the Zurich Card, that is, a 72 hour ticket that you can use for any transportation in Zurich (including trip back to the airport) and fantastic [benefits](https://www.zuerich.com/en). Don't forget to print it the first time you use it and to always keep it with you! (you will have to pay for the trip from the airport to the hotel, which is 3.40CHF as we cannot deliver the Zurich Card differently)
+- You will have to pay yourself the trip from the airport to the hotel (about 3.50CHF)
+- At the hotel, you will find the Zurich Card, that is, a 72 hour ticket that you can use for any transportation in Zurich (including trip back to the airport) and fantastic [benefits](https://www.zuerich.com/en). Don't forget to print it the first time you use it and to always keep it with you!
+- Reaching Balgrist Campus and Schulthess Klinik:
+
