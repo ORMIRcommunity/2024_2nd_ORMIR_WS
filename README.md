@@ -43,4 +43,8 @@ In this page, you will find (work in progress!):
 - You will have to pay yourself the trip from the airport to the hotel (about 3.50CHF)
 - At the hotel, you will find the Zurich Card, that is, a 72 hour ticket that you can use for any transportation in Zurich (including trip back to the airport) and fantastic [benefits](https://www.zuerich.com/en). Don't forget to print it the first time you use it and to always keep it with you!
 - Reaching Balgrist Campus and Schulthess Klinik:
+  - To Balgrist Campus(red path in figure below) : Get off at the tram stop *Balgrist*. Walk to the Balgrist *Hospital* main entrance, walk through the main building hall, and exit to the other side. Balgrist *Campus* will be in front of you!
+  - To Schulthess Clinic (yellow path in figure below): Get off at the tram stop *Balgrist*. Walk the downhill street until the Klink!
+  <br> <img src="./figures/BC_SK_map.png" width="400">
+- Reaching Google (coming soon!):
 
