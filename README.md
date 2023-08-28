@@ -1,7 +1,7 @@
 # Sharing and Curating Open Data in Musculoskeletal Imaging Research
 ## 2nd workshop of the [Open and Reproducible Musculoskeletal Imaging Research (ORMIR) Community](https://ormircommunity.github.io/)
 Main financial support by [Swiss National Science Foundation (SNSF)](https://www.snf.ch/en)   
-Other sponsors: [Zurich Tourism Office](https://www.zuerich.com/en)
+Other sponsors: [Balgrist Campus](https://www.balgristcampus.ch/), [Schulthess Klinik](https://www.schulthess-klinik.ch/en), Google, [Zurich Tourism Office](https://www.zuerich.com/en)
 ##  
 
 Dates: January 15-18, 2024
