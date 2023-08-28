@@ -2,7 +2,7 @@
 ## 2nd workshop of the [Open and Reproducible Musculoskeletal Imaging Research (ORMIR) Community](https://ormircommunity.github.io/)
 Main financial support by [Swiss National Science Foundation (SNSF)](https://www.snf.ch/en)   
 Sponsors: [Balgrist Campus](https://www.balgristcampus.ch/), [Schulthess Klinik](https://www.schulthess-klinik.ch/en), Google, [Zurich Tourism Office](https://www.zuerich.com/en)
-##  
+  
 
 Dates: January 15-18, 2024
 
@@ -39,12 +39,12 @@ In this page, you will find (work in progress!):
 - Number of nights: 3
 
 ### Public transportation
-- Public transportation in Switzerland is very reliable. You can plan your trips at [sbb.nl/en](https://www.sbb.ch/en/home.html) or you can download and install the [sbb app](https://www.sbb.ch/en/timetable/mobile-apps/sbb-mobile.html)
+- Public transportation in Switzerland is very reliable. You can plan your trips at [sbb.ch](https://www.sbb.ch/en/home.html) or you can download and install the [SBB app](https://www.sbb.ch/en/timetable/mobile-apps/sbb-mobile.html)
 - You will have to pay yourself the trip from the airport to the hotel (about 3.50CHF)
-- At the hotel, you will find the Zurich Card, that is, a 72 hour ticket that you can use for any transportation in Zurich (including trip back to the airport) and fantastic [benefits](https://www.zuerich.com/en). Don't forget to print it the first time you use it and to always keep it with you!
-- Reaching Balgrist Campus and Schulthess Klinik:
-  - To Balgrist Campus(red path in figure below) : Get off at the tram stop *Balgrist*. Walk to the Balgrist *Hospital* main entrance, walk through the main building hall, and exit to the other side. Balgrist *Campus* will be in front of you!
-  - To Schulthess Clinic (yellow path in figure below): Get off at the tram stop *Balgrist*. Walk the downhill street until the Klink!
+- At the hotel, you will find the Zurich Card, which is a 72 hour ticket that you can use for any transportation in Zurich (including trip back to the airport) and fantastic [benefits](https://www.zuerich.com/en). Don't forget to print it the first time you use it and to always keep it with you!
+- Reaching Balgrist Campus and Schulthess Klinik: Take tram 11 or S18 and get off at the stop stop *Balgrist*. Then:
+  - To Balgrist Campus(red path in figure below) : Walk to the Balgrist *Hospital* main entrance, walk through the main building hall, and exit to the other side. Balgrist *Campus* will be in front of you!
+  - To Schulthess Clinic (yellow path in figure below): Walk the downhill street until the Klinik!
   <br> <img src="./figures/BC_SK_map.png" width="400">
 - Reaching Google (coming soon!):
 
