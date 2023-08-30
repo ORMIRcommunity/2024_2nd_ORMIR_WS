@@ -9,7 +9,7 @@ Dates: January 15-18, 2024
 Venues in Zurich (Switzerland): 
 - [Balgrist Campus](https://www.balgristcampus.ch/), [Lengghalde 5](https://goo.gl/maps/K64WFruSgq6ZTmJt6) 
 - [Schulthess Klinik](https://www.schulthess-klinik.ch/en), [Lengghalde 2](https://goo.gl/maps/ospjThjCGCZfmseAA) 
-- [Google Cloud](https://cloud.google.com/blog/products/infrastructure/new-gcp-region-in-zurich-growing-our-support-for-swiss-and-european-businesses), Europaallee 
+- [Google Cloud](https://cloud.google.com/blog/products/infrastructure/new-gcp-region-in-zurich-growing-our-support-for-swiss-and-european-businesses), [Europaallee 20](https://goo.gl/maps/qTqdNqWavkzfH8eHA) 
 
 ---
 
