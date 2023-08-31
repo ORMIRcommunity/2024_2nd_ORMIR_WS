@@ -25,8 +25,6 @@ In this page, you will find (work in progress!):
 - [More](#more)   
   - [Accepted proposal](#accepted-proposal), [Final budget](#final-budget), [Photos](#photos), [Final report](#final-report), [Code for badges](#code-for-badges)
 
----
-
 
 ---
 
@@ -34,6 +32,9 @@ In this page, you will find (work in progress!):
 Preliminary program:
 
 <br> <img src="./figures/program.png" width="800">
+
+
+---
 
 ## Staying, eating, and travelling
 
