@@ -30,6 +30,11 @@ In this page, you will find (work in progress!):
 
 ---
 
+## Program
+Preliminary program:
+
+<br> <img src="./figures/program.png" width="800">
+
 ## Staying, eating, and travelling
 
 ### Accommodation
