@@ -46,11 +46,12 @@ Preliminary program:
 
 ### Public transportation
 - Public transportation in Switzerland is very reliable. You can plan your trips at [sbb.ch](https://www.sbb.ch/en/home.html) or you can download and install the [SBB app](https://www.sbb.ch/en/timetable/mobile-apps/sbb-mobile.html)
+- Convenient vocabulary and abbreviations: Flughafen = Airport; Banhof = train station; Hauptbanhof (abbreviated HB) = main train station; Bahnhofplatz (abbreviated Bfpl) = train station square 
 - You will have to pay yourself the trip from the airport to the hotel (about 3.50CHF)
 - At the hotel, you will find the Zurich Card, which is a 72 hour ticket that you can use for any transportation in Zurich (including trip back to the airport) and fantastic [benefits](https://www.zuerich.com/en). Don't forget to print it the first time you use it and to always keep it with you!
-- Reaching Balgrist Campus and Schulthess Klinik: Take tram 11 or S18 (left map) and get off at the stop *Balgrist*. Then:
+- Reaching Balgrist Campus (Lengghalde 5) and Schulthess Klinik (Lengghalde 2): Take tram 11 or S18 (left map) and get off at the stop *Balgrist*. Then:
   - To Balgrist Campus (red path on right map) : Walk to the Balgrist *Hospital* main entrance, walk through the main building hall, and exit to the other side. Balgrist *Campus* will be in front of you!
   - To Schulthess Clinic (yellow path on right map): Walk the downhill street until the Klinik!
 <br> <img src="./figures/tram_map.png" height="400"> <img src="./figures/BC_SK_map.png" height="400">
-- Reaching Google (coming soon!):
+- Reaching Google (Europaallee 20): From your hotel, walk to the tram stop *Hottingerplatz* (3min). Then, take the tram n.3 in direction *Zurich Albisrieden* (10 min) and get off at *Sihlpost/HB*. Walk to Europaallee 20 (4 minutes). 
 
