@@ -55,3 +55,10 @@ Preliminary program:
   - To Schulthess Klinik (yellow path on central map): Walk the downhill street to the Klinik (5 min)
 - Reaching **Google** (Europaallee 20): From your hotel, walk to the tram stop *Hottingerplatz* (3min). Then, take the tram 3 direction *Zurich Albisrieden* (10 min) and get off at *Sihlpost/HB*. Walk to Europaallee 20 (4 minutes).
 <img src="./figures/maps.png">
+
+
+## More
+### Accepted proposal
+Find the accepted proposal [here](https://doi.org/10.5281/zenodo.8349119)
+
+
