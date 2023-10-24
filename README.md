@@ -67,6 +67,7 @@ Preliminary program:
 
 ### Accommodation
 - Where: [Hotel Hottingen](https://www.hotelhottingen.ch/en/), Hottingerstrasse 31, 8032 Zurich, Switzerland
+- Breakfast, WiFi, and City Tax are included
 - Check in: Monday, January 15, 2024 from 3pm
 - Check out: Thursday, January 18, 2024 until 11am
 - Number of nights: 3
