@@ -84,10 +84,10 @@ Preliminary program:
 - You will have to pay yourself the trip from the airport to the hotel (about 7 CHF)
 - At the hotel, you will find the **Zurich Card**, which is a 72 hour ticket that you can use for any transportation in Zurich (including the trip back to the airport) and fantastic [benefits](https://www.zuerich.com/en). Don't forget to print it the first time you use it and to always keep it with you!
 - Reaching **Hotel Hottinger** (Hottingerstrasse 31): From the airport (*Zürich Flughafen*), take any train to the main train station (*Zürich HB*). Exit the train station on the right side, and get the tram 3 direction *Zürich, Klusplatz*. Get off at the stop *Hottingerplatz* and walk to the hotel (2 min)
-- Reaching **Balgrist Campus** (Lengghalde 5) and **Schulthess Klinik** (Lengghalde 2): From your hotel, walk to the tram stop *Kreuzplatz* (10 min). Take tram 11 direction *Zürich, Rehalp* or tram S18 directions *Forch* or *Esslingen*  and get off at the stop *Balgrist*. Then:
-  - To Balgrist Campus (red path on central map) : Walk to the Balgrist *Hospital* main entrance (1 min), walk through the main building hall, and exit to the other side. Balgrist *Campus* will be in front of you!
-  - To Schulthess Klinik (yellow path on central map): Walk the downhill street to the Klinik (5 min)
-
+- Reaching **Balgrist Campus** (Lengghalde 5) and **Schulthess Klinik** (Lengghalde 2): From your hotel, walk to the tram stop *Kreuzplatz* (10 min). Take tram 11 direction *Zürich, Rehalp* or tram S18 directions *Forch* or *Esslingen*  and get off at the stop *Balgrist* (left map). Then:
+  - To Balgrist Campus (red path on right map) : Walk to the Balgrist *Hospital* main entrance (1 min), walk through the main building hall, and exit to the other side. Balgrist *Campus* will be in front of you!
+  - To Schulthess Klinik (yellow path on right map): Walk the downhill street to the Klinik (5 min)
+  <br> <img src="./figures/maps.png" width="800">
 
 ## More
 ### Accepted proposal
