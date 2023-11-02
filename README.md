@@ -31,7 +31,7 @@ In this page, you will find (work in progress!):
 ## Program
 Preliminary program:
 
-<br> <img src="./figures/program.png" width="800">
+<br> <img src="./figures/program.png" width="700">
 
 ### Invited speakers
 - [Tim Smith](https://tjs.web.cern.ch/tjs/index.html)
