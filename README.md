@@ -14,8 +14,9 @@ Venues in Zurich (Switzerland):
 
 In this page, you will find (work in progress!): 
 
-- [Program](#Program)  
-  <!-- - [Hackathons](#hackathons), [Tutorials](#tutorials), [Invited speakers](#invited-speakers), [Walk/hike](#walkhike), [Other material](#other-material)   --> 
+- [Program](#Program)
+  - [Invited speakers](#invited-speakers)
+  <!-- - [Hackathons](#hackathons), [Tutorials](#tutorials), , [Walk/hike](#walkhike), [Other material](#other-material)   --> 
 - [Participants](#participants)  
 - [Staying, eating, and travelling](#stayingeatingtravelling)    
   - [Accommodation](#accommodation), [Meals](#meals), [Public Transportation](#public-transportation), [Travel reimbursements](#travel-reimbursements)  
@@ -32,8 +33,10 @@ Preliminary program:
 
 <br> <img src="./figures/program.png" width="800">
 
+### Invited speakers
+- [Tim Smith](https://tjs.web.cern.ch/tjs/index.html)
 
----
+
 
 ## Participants
 - [Andrew	Burghardt](https://profiles.ucsf.edu/andrew.burghardt)
