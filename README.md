@@ -19,12 +19,13 @@ In this page, you will find (work in progress!):
   <!-- - [Hackathons](#hackathons), [Tutorials](#tutorials), , [Walk/hike](#walkhike), [Other material](#other-material)   --> 
 - [Participants](#participants)  
 - [Staying, eating, and travelling](#stayingeatingtravelling)    
-  - [Accommodation](#accommodation), [Meals](#meals), [Public Transportation](#public-transportation), [Travel reimbursements](#travel-reimbursements)  
-- [Tips](#tips)   
-  - [What you need to know about Switzerland](#What-you-need-to-know-about-the-Switzerland), [Practical information about Zurich](#Practical-information-about-Zurich), [Things to do or see in Zurich](#Things-to-do-or-see-in-Zurich)     
+  - [Accommodation](#accommodation), [Meals](#meals), [Public transportation](#public-transportation), [Travel reimbursements](#travel-reimbursements)  
 - [More](#more)   
   - [Accepted proposal](#accepted-proposal), [Final budget](#final-budget), [Photos](#photos), [Final report](#final-report), [Code for badges](#code-for-badges)
 
+<!--
+- [Tips](#tips)   
+  - [What you need to know about Switzerland](#What-you-need-to-know-about-the-Switzerland), [Practical information about Zurich](#Practical-information-about-Zurich), [Things to do or see in Zurich](#Things-to-do-or-see-in-Zurich)   -->
 
 ---
 
@@ -100,6 +101,11 @@ Preliminary program:
   - To Balgrist Campus (red path on right map) : Walk to the Balgrist *Hospital* main entrance (1 min), walk through the main building hall, and exit to the other side. Balgrist *Campus* will be in front of you!
   - To Schulthess Klinik (yellow path on right map): Walk the downhill street to the Klinik (5 min)
   <br> <img src="./figures/maps.png" width="800">
+
+### Travel reimbursements
+- Participants from Europe (except Switzerland) will receive 50CHF trip reimbursement
+- Participants from other continents will receive 300CHF trip reimbursement
+- The reimbursement form will be available after the workshop  
 
 ## More
 ### Accepted proposal
