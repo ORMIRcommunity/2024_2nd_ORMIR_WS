@@ -78,6 +78,18 @@ Preliminary program:
 - Check out: Thursday, January 18, 2024 until 11am
 - Number of nights: 3
 
+### Meals
+- Breakfast: at Hotel Hottingen
+- Lunch:  
+  - Monday: Balgrist Canteen  
+  - Tuesday: Catered at Schulthess  
+  - Wednesday: Balgrist Canteen  
+  - Thursday: [EPI Park](https://www.swissepi.ch/epi-portal/seminar-und-restaurant/restaurant.html), Südstrasse 120, 8008 Zürich
+- Dinner:
+  - Monday: TBD
+  - Tuesday: [Zunfthaus Zur Waag](https://www.zunfthaus-zur-waag.ch/en/), Münsterhof 8, 8001 Zürich
+  - Wednesday: [Le Cèdre](https://libanesisch.ch/Badenerstrasse), Badenerstrasse 78, 8004 Zürich
+
 ### Public transportation
 - Public transportation in Switzerland is very reliable. You can plan your trips at [sbb.ch](https://www.sbb.ch/en/home.html) or you can download and install the [SBB app](https://www.sbb.ch/en/timetable/mobile-apps/sbb-mobile.html)
 - Convenient vocabulary and abbreviations: Flughafen = airport; Banhof = train station; Hauptbanhof (abbreviated HB) = main train station; Bahnhofplatz (abbreviated Bfpl) = train station square 
