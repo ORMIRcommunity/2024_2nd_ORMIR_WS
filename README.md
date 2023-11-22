@@ -32,10 +32,11 @@ In this page, you will find (work in progress!):
 ## Program
 Preliminary program:
 
-<br> <img src="./figures/program.png" width="700">
+<br> <img src="./figures/program.png" width="850">
 
 ### Invited speakers
-- [Tim Smith](https://tjs.web.cern.ch/tjs/index.html)
+- [Tim Smith (CERN)](https://tjs.web.cern.ch/tjs/index.html)
+- [Katrin Crameri (Swiss Institute of Bioinformatics)](https://www.linkedin.com/in/katrin-crameri-phd-mph-673741197/) and [Patrick Hirschi (University Hospital Zurich)](https://patrick-hirschi.ch/)
 
 ---
 
