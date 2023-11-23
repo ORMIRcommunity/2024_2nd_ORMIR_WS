@@ -90,7 +90,7 @@ Preliminary program:
   - Wednesday: Balgrist Canteen  
   - Thursday: [EPI Park](https://www.swissepi.ch/epi-portal/seminar-und-restaurant/restaurant.html), Südstrasse 120, 8008 Zürich
 - Dinner:
-  - Monday: TBD
+  - Monday: [Co Chin Chin Brasserie](https://brasserie.cochinchin.ch/), Wiesenstrasse 1, 8008 Zürich
   - Tuesday: [Zunfthaus Zur Waag](https://www.zunfthaus-zur-waag.ch/en/), Münsterhof 8, 8001 Zürich
   - Wednesday: [Le Cèdre](https://libanesisch.ch/Badenerstrasse), Badenerstrasse 78, 8004 Zürich
 
