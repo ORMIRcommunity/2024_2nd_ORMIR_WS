@@ -21,7 +21,7 @@ In this page, you will find (work in progress!):
 - [Staying, eating, and travelling](#stayingeatingtravelling)    
   - [Accommodation](#accommodation), [Meals](#meals), [Public transportation](#public-transportation), [Travel reimbursements](#travel-reimbursements)  
 - [More](#more)   
-  - [Accepted proposal](#accepted-proposal), [Final budget](#final-budget), [Photos](#photos), [Final report](#final-report), [Code for badges](#code-for-badges)
+  - [Accepted proposal](#accepted-proposal) <!--, [Final budget](#final-budget), [Photos](#photos), [Final report](#final-report)-->
 
 <!--
 - [Tips](#tips)   
