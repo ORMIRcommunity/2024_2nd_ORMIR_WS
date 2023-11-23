@@ -57,7 +57,7 @@ Preliminary program:
 - [Jukka Hirvasniemi](https://nl.linkedin.com/in/jukkahirvasniemi)
 - [Kathryn Stok](https://biomedical.eng.unimelb.edu.au/integrative-cartilage/people)
 - [Lorenzo Grassi](https://portal.research.lu.se/portal/en/persons/lorenzo-grassi(60a050a4-8557-479b-b842-74ecd1827869).html)
-- [Maria Monzon Ronda](https://hest.ethz.ch/en/department/people/people-a-z/personen-detail.MzE2ODY0.TGlzdC8zMzQsLTQ1MTk1NTQ5OA==.html)
+- [Maria Monzon Ronda](https://mariamonzon.github.io/)
 - [Mariska Wesseling](https://www.linkedin.com/in/mariska-wesseling-6230b816/?originalSubdomain=nl)
 - [Martino Pani](https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/martino-pani)
 - [Matthias Walle](https://biomech.ethz.ch/the-institute/people/person-detail.MjQ5NTcw.TGlzdC8yMzMsLTIwMjg3MDE2MzE=.html)
