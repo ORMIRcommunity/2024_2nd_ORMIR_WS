@@ -48,12 +48,13 @@ Preliminary program:
 ---
 
 ## Participants
+- [Andrea Cina](https://www.linkedin.com/in/andrea-cina-5709a6147/)
 - [Andrew	Burghardt](https://profiles.ucsf.edu/andrew.burghardt)
 - [Andy Kin On Wong](https://www.uhnresearch.ca/researcher/andy-kin-wong)
 - [Bryn Matheson](https://www.ucalgary.ca/labs/bonelab/bryn-matheson)
 - [Danielle Whittier](https://www.linkedin.com/in/daniellewhittier/)
 - [Donnie	Cameron](https://www.spierziektencentrum.nl/person/dr-donnie-cameron/)
-- [Egor Panfilov](https://www.linkedin.com/in/egorpanfilov/)
+- [Fabio Galbusera](https://www.schulthess-klinik.ch/de/spezialist/dr-biol-human-fabio-galbusera)
 - [Francesco Chiumento](https://it.linkedin.com/in/francescochiumento/en?trk=people-guest_people_search-card)
 - [Francesco Santini](https://www.francescosantini.com/wp/)
 - [Fulvia	Taddei](https://www.ior.it/en/ricerca-e-innovazione/fulvia-taddei-biomedical-engineer)
@@ -68,7 +69,8 @@ Preliminary program:
 - [Mariska Wesseling](https://www.linkedin.com/in/mariska-wesseling-6230b816/?originalSubdomain=nl)
 - [Martino Pani](https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/martino-pani)
 - [Matthias Walle](https://biomech.ethz.ch/the-institute/people/person-detail.MjQ5NTcw.TGlzdC8yMzMsLTIwMjg3MDE2MzE=.html)
-- [Sarah	Manske](https://cumming.ucalgary.ca/departments/radiology/profiles/sarah-manske)
+- [Sabine Matuschik](https://www.mr-physik.med.fau.de/team/sabine-matuschik/)
+- [Sarah Manske](https://cumming.ucalgary.ca/departments/radiology/profiles/sarah-manske)
 - [Serena Bonaretti](https://sbonaretti.github.io/)
 - [Simone Pancioni](https://www.artorg.unibe.ch/research/mb/group_members/staff/poncioni_simone/index_eng.html)
 - [Vincent Stadelmann](https://www.schulthess-klinik.ch/de/spezialist/vincent-stadelmann-phd-emba)
