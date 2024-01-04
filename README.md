@@ -35,14 +35,14 @@ Preliminary program:
 <br> <img src="./figures/program.png" width="850">
 
 ### Working groups  
-- Data format converters  
-- Metadata standardization for (MSK)BIDS   
-- Biomechanics
-- Guidelines for data sharing
+- Data format converters (ScancoIO) - Contact person: **Matthias Walle**
+- Metadata standardization for (MSK)BIDS - Contact person: **Gianluca Iori**
+- Biomechanics - Contact person: **Lorenzo Grassi**
+- Guidelines for data sharing - Contact person: **Sarah Manske**
 
 
 ### Invited speakers
-- [Ricard Martínez](https://www.uv.es/uvweb/college/en/profile-1285950309813.html?p2=martiner&idA=)
+- [Ricard Martínez (University of Valencia)](https://www.uv.es/uvweb/college/en/profile-1285950309813.html?p2=martiner&idA=)
 - [Tim Smith (CERN)](https://tjs.web.cern.ch/tjs/index.html)
 - [Katrin Crameri (Swiss Institute of Bioinformatics)](https://www.linkedin.com/in/katrin-crameri-phd-mph-673741197/) and [Patrick Hirschi (University Hospital Zurich)](https://patrick-hirschi.ch/)
 
