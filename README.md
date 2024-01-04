@@ -15,6 +15,7 @@ Venues in Zurich (Switzerland):
 In this page, you will find (work in progress!): 
 
 - [Program](#Program)
+  - [Working groups](#working-groups)
   - [Invited speakers](#invited-speakers)
   <!-- - [Hackathons](#hackathons), [Tutorials](#tutorials), , [Walk/hike](#walkhike), [Other material](#other-material)   --> 
 - [Participants](#participants)  
