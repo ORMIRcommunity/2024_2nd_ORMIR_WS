@@ -42,6 +42,7 @@ Preliminary program:
 
 
 ### Invited speakers
+- [Ricard Martínez](https://www.uv.es/uvweb/college/en/profile-1285950309813.html?p2=martiner&idA=)
 - [Tim Smith (CERN)](https://tjs.web.cern.ch/tjs/index.html)
 - [Katrin Crameri (Swiss Institute of Bioinformatics)](https://www.linkedin.com/in/katrin-crameri-phd-mph-673741197/) and [Patrick Hirschi (University Hospital Zurich)](https://patrick-hirschi.ch/)
 
