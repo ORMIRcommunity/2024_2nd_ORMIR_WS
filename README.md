@@ -30,9 +30,9 @@ In this page, you will find (work in progress!):
 ---
 
 ## Program
-Preliminary program:
 
 <br> <img src="./figures/program.png" width="850">
+
 
 ### Working groups  
 - Data format converters (ScancoIO) - Contact person: **Matthias Walle**
