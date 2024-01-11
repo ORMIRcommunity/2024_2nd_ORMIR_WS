@@ -106,9 +106,11 @@ The presentation by **Ricard Martínez** will be **remote** only. The presentati
   - Thursday: [EPI Park](https://www.swissepi.ch/epi-portal/seminar-und-restaurant/restaurant.html), Südstrasse 120, 8008 Zürich
 - Dinner:
   - Monday: [Co Chin Chin Brasserie](https://brasserie.cochinchin.ch/), Wiesenstrasse 1, 8008 Zürich
-    <br> <img style="border:10px solid black;" src="./figures/co_chin_chin_map.png" width="600">
+    <br> <img src="./figures/co_chin_chin_map.png" height="300">
   - Tuesday: [Zunfthaus Zur Waag](https://www.zunfthaus-zur-waag.ch/en/), Münsterhof 8, 8001 Zürich
+    <br> <img src="./figures/zunfthaus_map.png" height="300">
   - Wednesday: [Le Cèdre](https://libanesisch.ch/Badenerstrasse), Badenerstrasse 78, 8004 Zürich
+    <br> <img src="./figures/cedre_map.png" height="300">
 
 ### Public transportation
 - Public transportation in Switzerland is very reliable. You can plan your trips at [sbb.ch](https://www.sbb.ch/en/home.html) or you can download and install the [SBB app](https://www.sbb.ch/en/timetable/mobile-apps/sbb-mobile.html)
