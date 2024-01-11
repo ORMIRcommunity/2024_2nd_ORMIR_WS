@@ -106,6 +106,7 @@ The presentation by **Ricard Martínez** will be **remote** only. The presentati
   - Thursday: [EPI Park](https://www.swissepi.ch/epi-portal/seminar-und-restaurant/restaurant.html), Südstrasse 120, 8008 Zürich
 - Dinner:
   - Monday: [Co Chin Chin Brasserie](https://brasserie.cochinchin.ch/), Wiesenstrasse 1, 8008 Zürich
+    <br> <img style="border:10px solid black;" src="./figures/co_chin_chin_map.png" width="600">
   - Tuesday: [Zunfthaus Zur Waag](https://www.zunfthaus-zur-waag.ch/en/), Münsterhof 8, 8001 Zürich
   - Wednesday: [Le Cèdre](https://libanesisch.ch/Badenerstrasse), Badenerstrasse 78, 8004 Zürich
 
