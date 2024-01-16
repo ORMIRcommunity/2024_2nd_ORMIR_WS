@@ -16,6 +16,7 @@ In this page, you will find (work in progress!):
 
 - [Program](#Program)
   - [Working groups](#working-groups)
+  - [Day 1: Presentations](#day-1-presentations)
   - [Invited speakers](#invited-speakers)
   <!-- - [Hackathons](#hackathons), [Tutorials](#tutorials), , [Walk/hike](#walkhike), [Other material](#other-material)   --> 
 - [Participants](#participants)  
@@ -34,12 +35,15 @@ In this page, you will find (work in progress!):
 
 <br> <img src="./figures/program.png" width="850">
 
-
 ### Working groups  
 - Data format converters (ScancoIO) - Contact person: **Matthias Walle**
 - Metadata standardization for (MSK)BIDS - Contact person: **Gianluca Iori**
 - Biomechanics - Contact person: **Lorenzo Grassi**
 - Guidelines for data sharing - Contact person: **Sarah Manske**
+
+
+### Day 1: Presentations
+- Serena Bonaretti: [Welcome!](./presentations/bonaretti.pdf)
 
 
 ### Invited speakers
