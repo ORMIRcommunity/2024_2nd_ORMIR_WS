@@ -52,7 +52,7 @@ In this page, you will find (work in progress!):
 - [Katrin Crameri (Swiss Institute of Bioinformatics)](https://www.linkedin.com/in/katrin-crameri-phd-mph-673741197/) and [Patrick Hirschi (University Hospital Zurich)](https://patrick-hirschi.ch/) - *The SPHN data-enabling framework: From routinely collected healthcare to FAIR research data*
 
 The presentation by **Ricard Martínez** will be **remote** only. The presentations by **Tim Smith** and **Katrin Crameri with Patrick Hirschi** will be **hybrid**.  
-- To attend the presentations *remotely*, register [here](https://www.eventbrite.co.uk/e/sharing-and-curating-open-data-in-musculoskeletal-imaging-research-tickets-790119648137) 
+- To attend the presentations *remotely*, register [here](https://www.eventbrite.co.uk/e/sharing-and-curating-open-data-in-musculoskeletal-imaging-research-tickets-790119648137) (if the link does not work, copy/paste this link in your browser: https://www.eventbrite.co.uk/e/sharing-and-curating-open-data-in-musculoskeletal-imaging-research-tickets-790119648137)
 - To attend the presentations *in person*, join us in the Auditorium of Schulthess Klinic on Tuesday (Lengghalde 2, 8008 Zürich) and in the Auditorium of Balgrist University Hospital on Wednesday (Forchstrasse 340, 8008 Zürich)
 
 ---
