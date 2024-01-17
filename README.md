@@ -44,6 +44,8 @@ In this page, you will find (work in progress!):
 
 ### Day 1: Presentations
 - Serena Bonaretti: [Welcome!](./presentations/bonaretti.pdf)
+- Sarah Manske: [Developing a repository for metadata: the SPECTRA experience](./presentations/manske.pdf)
+- Francesco Santini: [Collaborative lifelong learning for MR image segmentation with Dafne: a reproducible research project](./presentations/santini.pdf)
 
 
 ### Invited speakers
