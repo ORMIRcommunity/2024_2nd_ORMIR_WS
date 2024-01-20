@@ -36,10 +36,10 @@ In this page, you will find (work in progress!):
 <br> <img src="./figures/program.png" width="850">
 
 ### Working groups  
-- Data format converters (ScancoIO) - Contact person: **Matthias Walle**
-- Metadata standardization for (MSK)BIDS - Contact person: **Gianluca Iori**
-- Biomechanics - Contact person: **Lorenzo Grassi**
-- Guidelines for data sharing - Contact person: **Sarah Manske**
+- Data format converters (ScancoIO) - Coordinator: **Matthias Walle**
+- Metadata standardization for (MSK)BIDS - Coordinators: **Gianluca Iori** and **Donnie Cameron**
+- Biomechanics - Coordinator: **Lorenzo Grassi**
+- Guidelines for data sharing - Coordinator: **Sarah Manske**
 
 
 ### Day 1: Presentations
