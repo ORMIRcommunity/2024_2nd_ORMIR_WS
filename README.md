@@ -39,21 +39,21 @@ In this page, you will find (work in progress!):
 
 ### Working groups  
 
-- Metadata standardization for (MSK)BIDS (now ORMIR-MIDS) 
+- **Metadata standardization for (MSK)BIDS (now ORMIR-MIDS)** 
   - Group presentation: [here](./presentations/ormir_mids.pdf)
   - GitHub repository: [coming soon!]()
-  - Coordinators: **Gianluca Iori** and **Donnie Cameron**
-- Guidelines for data sharing 
+  - Coordinators: *Gianluca Iori* and *Donnie Cameron*
+- **Guidelines for data sharing** 
   - GitHub repository: [ORMIR data guidelines](https://github.com/ORMIRcommunity/ormir_index_guidelines)
   - Documentation: [document](https://docs.google.com/document/d/1zlM3jXVO-tIVCum4jvh4jGhMstlhguBCqHR1yd-3cm8/edit?usp=sharing) and [spreadsheet](./presentations/Group1-DataSharing-ConsensusMetaDataList-Final.xlsx)
-  - Coordinator: **Sarah Manske**
-- Biomechanics 
+  - Coordinator: *Sarah Manske*
+- **Biomechanics** 
   - Group presentation: [here](./presentations/biomechanics.pdf)
   - GitHub repository: [HipPyFemur](https://github.com/hippyfemur)
-  - Coordinator: **Lorenzo Grassi**
-- Data format converters (ScancoIO) 
+  - Coordinator: *Lorenzo Grassi*
+- **Data format converters (ScancoIO)**
   - GitHub repository: [vtkbone](https://github.com/OpenMSKImaging/vtkbone/tree/master/Tutorials)
-  - Coordinator: **Matthias Walle**
+  - Coordinator: *Matthias Walle*
 
 
 
