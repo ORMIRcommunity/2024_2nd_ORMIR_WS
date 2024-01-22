@@ -169,4 +169,4 @@ Find the accepted SNSF grant proposal [here](https://doi.org/10.5281/zenodo.8349
 
 
 #### Having fun!
-<img src="./photos/fun_1.png" width="200"> <img src="./photos/fun_2.png" width="200"> <img src="./photos/fun_3.png" width="200">
+<img src="./photos/fun_1.png" width="270"> <img src="./photos/fun_2.png" width="270"> <img src="./photos/fun_3.png" width="270">
