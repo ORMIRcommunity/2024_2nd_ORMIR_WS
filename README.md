@@ -23,7 +23,7 @@ In this page, you will find (work in progress!):
 - [Staying, eating, and travelling](#stayingeatingtravelling)    
   - [Accommodation](#accommodation), [Meals](#meals), [Public transportation](#public-transportation), [Travel reimbursements](#travel-reimbursements)  
 - [More](#more)   
-  - [Accepted proposal](#accepted-proposal) <!--, [Final budget](#final-budget), [Photos](#photos), [Final report](#final-report)-->
+  - [Accepted proposal](#accepted-proposal) , <!--[Final budget](#final-budget),-->  [Photos](#photos) <!--[Final report](#final-report)--> 
 
 <!--
 - [Tips](#tips)   
@@ -44,7 +44,8 @@ In this page, you will find (work in progress!):
   - GitHub repository: [coming soon!]()
   - Coordinators: **Gianluca Iori** and **Donnie Cameron**
 - Guidelines for data sharing 
-  - GitHub repository [ORMIR data guidelines](https://github.com/ORMIRcommunity/ormir_index_guidelines)
+  - GitHub repository: [ORMIR data guidelines](https://github.com/ORMIRcommunity/ormir_index_guidelines)
+  - Documentation: [document](https://docs.google.com/document/d/1zlM3jXVO-tIVCum4jvh4jGhMstlhguBCqHR1yd-3cm8/edit?usp=sharing) and [spreadsheet](./presentations/Group1-DataSharing-ConsensusMetaDataList-Final.xlsx)
   - Coordinator: **Sarah Manske**
 - Biomechanics 
   - Group presentation: [here](./presentations/biomechanics.pdf)
@@ -150,7 +151,19 @@ The presentation by **Ricard Martínez** will be **remote** only. The presentati
 - The reimbursement form will be available after the workshop  
 
 ## More
+
 ### Accepted proposal
 Find the accepted SNSF grant proposal [here](https://doi.org/10.5281/zenodo.8349119)
 
 
+### Photos
+
+#### Working groups
+<img src="./photos/work_1.png" height="225"> <img src="./photos/work_2.png" height="225"> <img src="./photos/work_3.png" height="225"><img src="./photos/work_4.png" height="225"> <img src="./photos/work_5.png" height="225"> <img src="./photos/work_6.png" height="225">
+
+#### Guest speakers
+<img src="./photos/presenter_1.png" height="225"> <img src="./photos/presenter_2.png" height="225"> <img src="./photos/presenter_3.png" height="225">
+
+
+#### Having fun!
+<img src="./photos/fun_1.png" height="225"> <img src="./photos/fun_2.png" height="225"> <img src="./photos/fun_3.png" height="225">
