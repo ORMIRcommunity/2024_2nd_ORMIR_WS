@@ -23,7 +23,7 @@ In this page, you will find (work in progress!):
 - [Staying, eating, and travelling](#stayingeatingtravelling)    
   - [Accommodation](#accommodation), [Meals](#meals), [Public transportation](#public-transportation), [Travel reimbursements](#travel-reimbursements)  
 - [More](#more)   
-  - [Accepted proposal](#accepted-proposal) , <!--[Final budget](#final-budget),-->  [Photos](#photos) <!--[Final report](#final-report)--> 
+  - [Accepted proposal](#accepted-proposal), <!--[Final budget](#final-budget),-->  [Photos](#photos) <!--[Final report](#final-report)--> 
 
 <!--
 - [Tips](#tips)   
@@ -149,6 +149,9 @@ The presentation by **Ricard Martínez** will be **remote** only. The presentati
 - Participants from Europe (except Switzerland) will receive 50CHF trip reimbursement
 - Participants from other continents will receive 300CHF trip reimbursement
 - The reimbursement form will be available after the workshop  
+
+
+---
 
 ## More
 
