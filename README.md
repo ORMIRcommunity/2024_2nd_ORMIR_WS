@@ -162,11 +162,11 @@ Find the accepted SNSF grant proposal [here](https://doi.org/10.5281/zenodo.8349
 ### Photos
 
 #### Working!
-<img src="./photos/work_1.png" height="225"> <img src="./photos/work_2.png" height="225"> <img src="./photos/work_3.png" height="225"><img src="./photos/work_4.png" height="225"> <img src="./photos/work_5.png" height="225"> <img src="./photos/work_6.png" height="225">
+<img src="./photos/work_1.png" width="300"> <img src="./photos/work_2.png" width="300"> <img src="./photos/work_3.png" width="300"><img src="./photos/work_4.png" width="300"> <img src="./photos/work_5.png" width="300"> <img src="./photos/work_6.png" width="300">
 
 #### Guest speakers: Ricard Martínez, Tim Smith, and Katrin Crameri and Patrick Hirschi
-<img src="./photos/presenter_1.png" height="225"> <img src="./photos/presenter_2.png" height="225"> <img src="./photos/presenter_3.png" height="225">
+<img src="./photos/presenter_1.png" width="300"> <img src="./photos/presenter_2.png" width="300"> <img src="./photos/presenter_3.png" width="300">
 
 
 #### Having fun!
-<img src="./photos/fun_1.png" height="225"> <img src="./photos/fun_2.png" height="225"> <img src="./photos/fun_3.png" height="225">
+<img src="./photos/fun_1.png" width="300"> <img src="./photos/fun_2.png" width="300"> <img src="./photos/fun_3.png" width="300">
