@@ -41,7 +41,7 @@ In this page, you will find (work in progress!):
 
 - **Metadata standardization for (MSK)BIDS (now ORMIR-MIDS)** 
   - Group presentation: [here](./presentations/ormir_mids.pdf)
-  - GitHub repository: [coming soon!]()
+  - GitHub repository: [ORMIR-MIDS](https://github.com/ormir-mids)
   - Coordinators: *Gianluca Iori* and *Donnie Cameron*
 - **Guidelines for data sharing** 
   - GitHub repository: [ORMIR data guidelines](https://github.com/ORMIRcommunity/ormir_index_guidelines)
