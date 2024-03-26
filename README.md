@@ -12,7 +12,7 @@ Venues in Zurich (Switzerland):
 
 ---
 
-In this page, you will find (work in progress!): 
+In this page, you will find: 
 
 - [Program](#Program)
   - [Working groups](#working-groups)
