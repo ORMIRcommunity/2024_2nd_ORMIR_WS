@@ -159,7 +159,7 @@ The presentation by **Ricard Martínez** will be **remote** only. The presentati
 Find the accepted SNSF grant proposal [here](https://doi.org/10.5281/zenodo.8349119)
 
 ### Final report
-Read the [report](./figures/report.pdf) to the Swiss National Science Foundation. You can follow the workshop outcomes [here](https://data.snf.ch/grants/grant/221844)
+Read the [report](./figures/final_report.pdf) to the Swiss National Science Foundation. You can follow the workshop outcomes [here](https://data.snf.ch/grants/grant/221844)
 
 ### Final budget
 Find our final budget [here](./figures/final_budget.pdf)
