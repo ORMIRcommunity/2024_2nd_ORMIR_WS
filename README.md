@@ -23,7 +23,7 @@ In this page, you will find (work in progress!):
 - [Staying, eating, and travelling](#stayingeatingtravelling)    
   - [Accommodation](#accommodation), [Meals](#meals), [Public transportation](#public-transportation), [Travel reimbursements](#travel-reimbursements)  
 - [More](#more)   
-  - [Accepted proposal](#accepted-proposal), <!--[Final budget](#final-budget),-->  [Photos](#photos) <!--[Final report](#final-report)--> 
+  - [Accepted proposal](#accepted-proposal), [Final report](#final-report), [Final budget](#final-budget), [Photos](#photos) 
 
 <!--
 - [Tips](#tips)   
@@ -158,6 +158,11 @@ The presentation by **Ricard Martínez** will be **remote** only. The presentati
 ### Accepted proposal
 Find the accepted SNSF grant proposal [here](https://doi.org/10.5281/zenodo.8349119)
 
+### Final report
+Read the [report](./figures/report.pdf) to the Swiss National Science Foundation. You can follow the workshop outcomes [here](https://data.snf.ch/grants/grant/221844)
+
+### Final budget
+Find our final budget [here](./figures/final_budget.pdf)
 
 ### Photos
 
@@ -167,6 +172,6 @@ Find the accepted SNSF grant proposal [here](https://doi.org/10.5281/zenodo.8349
 #### Guest speakers: Ricard Martínez, Tim Smith, and Katrin Crameri and Patrick Hirschi
 <img src="./photos/presenter_1.png" width="270"> <img src="./photos/presenter_2.png" width="270"> <img src="./photos/presenter_3.png" width="270">
 
-
 #### Having fun!
 <img src="./photos/fun_1.png" width="270"> <img src="./photos/fun_2.png" width="270"> <img src="./photos/fun_3.png" width="270">
+
