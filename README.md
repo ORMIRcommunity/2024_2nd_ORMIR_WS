@@ -58,9 +58,9 @@ In this page, you will find:
 
 
 ### Invited speakers
-- [Ricard Martínez (University of Valencia)](https://www.uv.es/uvweb/college/en/profile-1285950309813.html?p2=martiner&idA=) - *Data Sharing for the CHAIMELEON project* ([video](https://www.youtube.com/watch?v=ChsbwrsqVZ4))
-- [Tim Smith (CERN)](https://tjs.web.cern.ch/tjs/index.html) - *Open is not enough* ([video](https://www.youtube.com/watch?v=ZRk9erl2osE))
-- [Katrin Crameri (Swiss Institute of Bioinformatics)](https://www.linkedin.com/in/katrin-crameri-phd-mph-673741197/) and [Patrick Hirschi (University Hospital Zurich)](https://patrick-hirschi.ch/) - *The SPHN data-enabling framework: From routinely collected healthcare to FAIR research data* ([video](https://www.youtube.com/watch?v=CJWZzcCE6bc))
+- [Ricard Martínez (University of Valencia)](https://www.uv.es/uvweb/college/en/profile-1285950309813.html?p2=martiner&idA=) - *Data Sharing for the CHAIMELEON project* ([video](https://www.youtube.com/watch?v=j1HripU7Ubg))
+- [Tim Smith (CERN)](https://tjs.web.cern.ch/tjs/index.html) - *Open is not enough* ([video](https://www.youtube.com/watch?v=PhcpiC5pAhg))
+- [Katrin Crameri (Swiss Institute of Bioinformatics)](https://www.linkedin.com/in/katrin-crameri-phd-mph-673741197/) and [Patrick Hirschi (University Hospital Zurich)](https://patrick-hirschi.ch/) - *The SPHN data-enabling framework: From routinely collected healthcare to FAIR research data* ([video](https://www.youtube.com/watch?v=Z52qLfSv6s8))
 <!-- 
 The presentation by **Ricard Martínez** will be **remote** only. The presentations by **Tim Smith** and **Katrin Crameri with Patrick Hirschi** will be **hybrid**.  
 - To attend the presentations *remotely*, register [here](https://www.eventbrite.co.uk/e/sharing-and-curating-open-data-in-musculoskeletal-imaging-research-tickets-790119648137) (if the link does not work, copy/paste this link in your browser: https://www.eventbrite.co.uk/e/sharing-and-curating-open-data-in-musculoskeletal-imaging-research-tickets-790119648137)
